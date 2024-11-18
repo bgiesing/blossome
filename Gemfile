@@ -8,7 +8,7 @@ gem 'sinatra-partial'
 gem 'haml'
 gem 'sass'
 gem 'coffee-script'
-gem 'sprockets', '~> 2.0'
+gem 'sprockets', '~> 2.12'
 gem 'rdiscount'
 gem 'mustache'
 
